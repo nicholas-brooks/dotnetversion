@@ -1,0 +1,8 @@
+.local
+release
+src/**/bin
+src/**/obj
+src/**/.vs
+src/**/*.v14.suo
+src/**/*.user
+src/packages/**/
